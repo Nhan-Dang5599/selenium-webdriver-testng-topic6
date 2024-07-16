@@ -34,5 +34,10 @@ public class Topic_01_Check_Environment_Pratice {
     public void TC_04() {
     	
     }
+    
+    @Test
+    public void TC_05() {
+    	
+    }
 
 }
